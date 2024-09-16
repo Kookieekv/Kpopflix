@@ -1,0 +1,122 @@
+body {
+    background: black;
+    color: rgb(255, 255, 255);
+    margin: 0%;
+}
+
+header {
+    font-family: "Nerko One", cursive;
+    border-bottom: solid 2px rgb(71, 71, 71);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    background: rgb(92, 92, 92) ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.chamada-2024 {
+    margin-right: 5%;
+}
+
+img  {
+    height: 200px ;
+    width: 350px;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+ .categoria-mvs {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-mvs img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-mvs img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+
+.categoria-stages {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-stages img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-stages img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.titulos {
+    background: rgb(0, 0, 0) ;
+    padding-bottom: 0%;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.categoria-games {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-games img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-games img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.categoria-reactions {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-reactions img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-reactions img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.categoria-variedades {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-variedades img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+
+.categoria-variedades img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
